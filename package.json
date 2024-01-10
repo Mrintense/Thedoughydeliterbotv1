@@ -1,0 +1,57 @@
+{
+  "name": "ilona",
+  "main": "index.js",
+  "author": "Mr.SIN RE#1528 | Persian Caesar",
+  "version": "1.0.0",
+  "description": "I'm Ilona, The best Persian robot that you can use me for all thing you need like mod, ticket, giveaway and much things.",
+  "license": "BSD",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sobhan-SRZA/All-For-One-Bot.git"
+  },
+  "bugs": {
+    "server": "https://dsc.gg/persian-caesar",
+    "url": "https://github.com/Sobhan-SRZA/All-For-One-Bot/issues"
+  },
+  "homepage": "https://github.com/Sobhan-SRZA/All-For-One-Bot#readme",
+  "keywords": [
+    "advanced bot",
+    "ticket bot",
+    "advanced ticket bot",
+    "advanced ticket system",
+    "buttons ticket system",
+    "ilona",
+    "persian caesar",
+    "all for one",
+    "fun bot",
+    "fun",
+    "economy",
+    "dashboard",
+    "discord",
+    "moderation bot",
+    "security bot"
+  ],
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@napi-rs/canvas": "^0.1.44",
+    "axios": "^1.6.5",
+    "canvas": "^2.11.2",
+    "cli-color": "^2.0.3",
+    "cpu-stat": "^2.0.1",
+    "discord-html-transcripts": "^3.2.0",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "install": "^0.13.0",
+    "moment": "^2.30.1",
+    "mongodb": "^6.3.0",
+    "mongoose": "^7.6.8",
+    "npm": "^10.2.5",
+    "quick.db": "^9.1.7",
+    "quickmongo": "^5.2.0"
+  }
+}
